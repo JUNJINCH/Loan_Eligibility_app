@@ -1,0 +1,4 @@
+2025-04-09 10:07:43 - User Input:
+Gender Married Dependents Education Self_Employed  ApplicantIncome  CoapplicantIncome  LoanAmount  Loan_Amount_Term  Credit_History Property_Area
+  Male     Yes          0  Graduate           Yes             5000               2000         150                12             1.0         Urban
+2025-04-09 10:07:43 - Prediction: Loan Approved
