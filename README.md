@@ -1,7 +1,7 @@
 # Loan Eligibility Predictor
 
 This project is a **machine learning web application** built with **Streamlit**. It predicts whether a loan applicant is eligible for a loan based on personal and financial information using a trained logistic regression model.
-
+[Click here to try the app](https://junjinch-loan-eligibility-app-app-2o3xae.streamlit.app/)
 ---
 
 ## Features
