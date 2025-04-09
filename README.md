@@ -38,7 +38,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Folder Structure
-
+```
 Loan_Eligibility_App/
 ├── app.py                         # Main Streamlit app
 ├── train_and_save_model.py       # Model training script
@@ -62,7 +62,7 @@ Loan_Eligibility_App/
 │   └── test_app.py                # Unit test
 ├── requirements.txt
 └── README.md
-
+```
 ## Logging
 All predictions, inputs, and runtime errors are saved to:
 
